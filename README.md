@@ -28,4 +28,4 @@ chario-shop/
 - **Vercel** : importez le dossier
 - **GitHub Pages** : poussez le dossier dans un dépôt
 
-Le site est entièrement responsive, optimisé mobile, et prêt pour la production.
+Le site est entièrement responsive, optimisé mobile, et prêt pour la production..
